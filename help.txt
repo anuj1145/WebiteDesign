@@ -1,0 +1,2 @@
+1. Please open this website using internet connection there is one cdn used
+2. I developed simple basic design of the website carousel is not implemented
